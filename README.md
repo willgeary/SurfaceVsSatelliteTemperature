@@ -4,4 +4,4 @@ Comparing Surface-based temperature anomaly vs. Satellite-based temperature anom
 
 See `notebook.ipynb` for the code behind the below plot.
 
-[!img](https://raw.githubusercontent.com/willgeary/SurfaceVsSatelliteTemperature/main/plot.png)
+![plot]([http://url/to/img.png](https://raw.githubusercontent.com/willgeary/SurfaceVsSatelliteTemperature/main/plot.png))
